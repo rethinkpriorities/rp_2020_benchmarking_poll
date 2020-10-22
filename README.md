@@ -2,6 +2,8 @@
 
 Open data and code behind [Rethink Priorities](https://www.rethinkpriorities.org/)'s analysis of its 2020 Benchmarking Poll.
 
+This poll was run via the [Prolific](https://www.prolific.co/) platform. After dropping for data quality checks, it includes 4944 people. People from California were upsampled on Prolific, so the raw data includes 1024 people from California and 3920 people from other US states. Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative.
+
 
 ### Install Prerequisites
 
