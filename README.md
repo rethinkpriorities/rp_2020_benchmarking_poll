@@ -3,6 +3,11 @@
 Open data and code behind [Rethink Priorities](https://www.rethinkpriorities.org/)'s analysis of its 2020 Benchmarking Poll.
 
 
+### Install Prerequisites
+
+`pip install -r requirements.txt` to install the pre-requisite packages.
+
+
 ### Raw Data
 
 Raw data is in `repsonses_processed_national_weighted.csv`.
