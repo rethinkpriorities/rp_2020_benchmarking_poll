@@ -7,9 +7,9 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 
 ### Topline Results
 
-* US national turnout is estimated to be 68.3% of the voting population (80% CI: 61.0% to 72.6%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
-* 87.6% of eligible US voters are estimated to be registered (80% CI: 80.6% to 91.5%).
-* Biden at +10.0 support nationally (80% CI: Biden +3.6 to Biden +16.4), suggesting a 90.6% chance Biden wins the Presidency.
+* US national turnout is estimated to be 62.1% of the voting population (80% CI: 56.8% to 67.4%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
+* 81.4% of eligible US voters are estimated to be registered (80% CI: 76.4% to 86.3%).
+* Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7), suggesting a 96.2% chance Biden wins the Presidency.
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +3.4 to Dems +14.0), suggesting a 69.8% chance that Dems keep the House.
 * Trump is at +4.7 in Texas (80% CI: Trump +15.2 to Biden +5.9), suggesting a 64.5% chance that Trump wins Texas.
 * Biden is at +44.6 in California (80% CI: Biden +36.4 to Biden +52.8), suggesting a >99.9% chance that Biden wins California.
