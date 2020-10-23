@@ -22,6 +22,8 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 * CA Prop 22 (Rideshare) is at 54.1% support (80% CI: 35.9 to 71.7), suggesting a 58.5% chance of passing.
 * CA Prop 23 (Dialysis) is at 52.4% support (80% CI: 28.3 to 72.9), suggesting a 55.1% chance of passing.
 * CA Prop 25 (Bail) is at 58.8% support (80% CI: 37.7 to 76.3), suggesting a 67.8% chance of passing.
+
+See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for all results and predictions.
  
  
 ### Install Prerequisites
