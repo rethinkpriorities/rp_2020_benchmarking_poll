@@ -7,6 +7,8 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 
 ### Topline Results
 
+* Turnout is estimated to be 68.3% of the voting population (80% CI: 61.0% to 72.6%).
+* 87.6% of eligible voters are estimated to be registered (80% CI: 80.6% to 91.5%).
 * Biden at +10.0 support nationally (80% CI: Biden +3.6 to Biden +16.4), suggesting a 90.6% chance Biden wins the Presidency.
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +3.4 to Dems +14.0), suggesting a 69.8% chance that Dems keep the House.
 * Trump is at +4.7 in Texas (80% CI: Trump +15.2 to Biden +5.9), suggesting a 64.5% chance that Trump wins Texas.
@@ -47,7 +49,7 @@ See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-f
 
 This data was produced with the following scripts:
 
-* **[(3) Analysis - Trump-Biden](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(3)%20Analysis%20-%20Trump-Biden.ipynb)** - Model Trump vs. Biden
+* **[(3) Analysis - Trump-Biden](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(3)%20Analysis%20-%20Trump-Biden.ipynb)** - Model Trump vs. Biden. Also include estimates of turnout.
 * **[(4) Analysis - Generic Congressional Ballot](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(4)%20Analysis%20-%20Generic%20Congressional%20Ballot.ipynb)** - Model the Generic Congressional Ballot
 * **[(5) Analysis - Texas Biden + Senate](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Texas%20Biden%20%2B%20Senate.ipynb)** - Model Trump vs. Biden presidential race and Cornyn (R) vs. Hegar (D) senate race in Texas
 * **[(6) Analysis - CA Propositions](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Analysis%20-%20CA%20Propositions.ipynb)** - Model California state propositions. Also model Trump-Biden in CA.
