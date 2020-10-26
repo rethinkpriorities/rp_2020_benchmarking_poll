@@ -10,7 +10,7 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 * US national turnout is estimated to be 62.7% of the voting population (80% CI: 57.4% to 67.0%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
 * 80.4% of eligible US voters are estimated to be registered (80% CI: 75.5% to 85.3%).
 * Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7). These modeled CIs alone suggest a 85.6% chance Biden wins the Presidency.
-* Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +3.4 to Dems +14.0), suggesting a 69.8% chance that Dems keep the House.
+* Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
 * Trump is at +4.7 in Texas (80% CI: Trump +15.2 to Biden +5.9), suggesting a 64.5% chance that Trump wins Texas.
 * Biden is at +44.6 in California (80% CI: Biden +36.4 to Biden +52.8), suggesting a >99.9% chance that Biden wins California.
 * Cornyn (R) is at +6.3 in the Texas Senate race (80% CI: Cornyn +18.8 to Hegar (D) +6.2), suggesting a 66.7% chance that Cornyn keeps his Texas Senate seat.
