@@ -13,7 +13,7 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
 * Trump is at +4.7 in Texas (80% CI: Trump +15.2 to Biden +5.9), suggesting a 64.5% chance that Trump wins Texas.
 * Biden is at +44.6 in California (80% CI: Biden +36.4 to Biden +52.8), suggesting a >99.9% chance that Biden wins California.
-* Cornyn (R) is at +6.3 in the Texas Senate race (80% CI: Cornyn +18.8 to Hegar (D) +6.2), suggesting a 66.7% chance that Cornyn keeps his Texas Senate seat.
+* Cornyn (R) is at +6.3 in the Texas Senate race (80% CI: Cornyn +17.7 to Hegar (D) +4.7), suggesting a 68.6% chance that Cornyn keeps his Texas Senate seat.
 * CA Prop 14 (Stem Cell) is at 54.0% support (80% CI: 31.7 to 72.6), suggesting a 57.7% chance of passing.
 * CA Prop 15 (Property Tax) is at 59.3% support (80% CI: 36.2 to 78.9), suggesting a 68.0% chance of passing.
 * CA Prop 16 (Affirmative Action) is at 45.1% support (80% CI: 22.0 to 64.9), suggesting a 41.4% chance of passing.
