@@ -11,19 +11,19 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 * 80.4% of eligible US voters are estimated to be registered (80% CI: 75.5% to 85.3%).
 * Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7). These modeled CIs alone suggest a 85.6% chance Biden wins the Presidency.
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
-* Trump is at +4.7 in Texas (80% CI: Trump +15.2 to Biden +5.9), suggesting a 64.5% chance that Trump wins Texas.
-* Biden is at +44.6 in California (80% CI: Biden +36.4 to Biden +52.8), suggesting a >99.9% chance that Biden wins California.
-* Cornyn (R) is at +6.3 in the Texas Senate race (80% CI: Cornyn +17.7 to Hegar (D) +4.7), suggesting a 68.6% chance that Cornyn keeps his Texas Senate seat.
-* CA Prop 14 (Stem Cell) is at 54.0% support (80% CI: 31.7 to 72.6), suggesting a 57.7% chance of passing.
-* CA Prop 15 (Property Tax) is at 59.3% support (80% CI: 36.2 to 78.9), suggesting a 68.0% chance of passing.
-* CA Prop 16 (Affirmative Action) is at 45.1% support (80% CI: 22.0 to 64.9), suggesting a 41.4% chance of passing.
-* CA Prop 17 (Felon Voting) is at 59.3% support (80% CI: 37.1 to 78.0), suggesting a 68.7% chance of passing.
-* CA Prop 18 (17yo Voting) is at 73.8% support (80% CI: 43.7 to 100.0), suggesting a 75.2% chance of passing.
-* CA Prop 20 (Parole) is at 52.9% support (80% CI: 29.4 to 73.1), suggesting a 56.1% chance of passing.
-* CA Prop 21 (Rent Control) is at 47.7% support (80% CI: 22.6 to 69.5), suggesting a 46.7% chance of passing.
-* CA Prop 22 (Rideshare) is at 54.1% support (80% CI: 35.9 to 71.7), suggesting a 58.5% chance of passing.
-* CA Prop 23 (Dialysis) is at 52.4% support (80% CI: 28.3 to 72.9), suggesting a 55.1% chance of passing.
-* CA Prop 25 (Bail) is at 58.8% support (80% CI: 37.7 to 76.3), suggesting a 67.8% chance of passing.
+* Biden is at +2.3 in Texas (80% CI: Trump +4.0 to Biden +8.7), suggesting a 62.1% chance (from this poll alone and no other information) that Biden wins Texas.
+* Biden is at +28.9 in California (80% CI: Biden +22.5 to Biden +35.3), suggesting a >99.9% chance that Biden wins California.
+* Cornyn (R) is at +2.5 in the Texas Senate race (80% CI: Cornyn +11.3 to Hegar (D) +6.3), suggesting a 59.5% chance that Cornyn keeps his Texas Senate seat.
+* CA Prop 14 (Stem Cell) is at 55.6% support (80% CI: 43.9 to 67.4), suggesting a 65.7% chance of passing.
+* CA Prop 15 (Property Tax) is at 56.5% support (80% CI: 45.4 to 67.6), suggesting a 68.8% chance of passing.
+* CA Prop 16 (Affirmative Action) is at 39.6% support (80% CI: 28.8 to 50.5), suggesting a 21.0% chance of passing.
+* CA Prop 17 (Felon Voting) is at 61.2% support (80% CI: 52.3 to 70.0), suggesting a 85.7% chance of passing.
+* CA Prop 18 (17yo Voting) is at 47.6% support (80% CI: 37.2 to 57.9), suggesting a 42.1% chance of passing.
+* CA Prop 20 (Parole) is at 45.4% support (80% CI: 34.0 to 56.7), suggesting a 36.6% chance of passing.
+* CA Prop 21 (Rent Control) is at 46.8% support (80% CI: 33.2 to 60.5), suggesting a 42.3% chance of passing.
+* CA Prop 22 (Rideshare) is at 50.2% support (80% CI: 39.8 to 60.6), suggesting a 50.7% chance of passing.
+* CA Prop 23 (Dialysis) is at 55.4% support (80% CI: 43.9 to 66.8), suggesting a 65.4% chance of passing.
+* CA Prop 25 (Bail) is at 59.0% support (80% CI: 49.3 to 68.8), suggesting a 78.2% chance of passing.
 
 See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for all results and predictions.
  
