@@ -2,12 +2,12 @@
 
 Open data and code behind [Rethink Priorities](https://www.rethinkpriorities.org/)'s analysis of its 2020 Benchmarking Poll.
 
-This poll was run via the [Prolific](https://www.prolific.co/) platform. After dropping for data quality checks, it includes 4944 people. People from California were upsampled on Prolific, so the raw data includes 1024 people from California and 3920 people from other US states. Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative.
+This poll was run via the [Prolific](https://www.prolific.co/) platform. After dropping for data quality checks, it includes 4933 people. People from California were intentionally upsampled, so the raw data includes 1022 people from California and 3911 people from other US states. Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative.
 
 
 ### Topline Results
 
-* US national turnout is estimated to be 62.7% of the voting population (80% CI: 57.4% to 67.0%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
+* US national turnout is estimated to be 62.7% of the voting eligible population (80% CI: 57.4% to 67.0%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
 * 80.4% of eligible US voters are estimated to be registered (80% CI: 75.5% to 85.3%).
 * Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7). These modeled CIs alone suggest a 85.6% chance Biden wins the Presidency.
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
