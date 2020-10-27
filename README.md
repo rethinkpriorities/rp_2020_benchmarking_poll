@@ -42,6 +42,8 @@ This data was produced with the following two scripts:
 * **[(1) Process Data.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(1)%20Process%20Data.ipynb)** - Load the data from Surveymonkey Raw CSV into processed CSVs. Use [survey_dud_detector](https://github.com/rethinkpriorities/survey_dud_detector) and other quality checks to remove bad data.
 * **[(2) Weighting.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(2)%20Weighting.ipynb)** - Use [surveyweights](https://github.com/rethinkpriorities/surveyweights) package to apply US Census weighting
 
+Note that running these two scripts on your own is unnecessary as the generated data is already included in the repo. Further note that running the first script is not possible publicly as the raw CSVs expose internal Prolific information that cannot be disclosed publicly.
+
 
 ### Models
 
