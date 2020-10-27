@@ -4,7 +4,7 @@ Open data and code behind [Rethink Priorities](https://www.rethinkpriorities.org
 
 This poll was run via the [Prolific](https://www.prolific.co/) platform on 20 October 2020. After dropping for data quality checks, it includes 4933 people. People from California were intentionally upsampled, so the raw data includes 1022 people from California and 3911 people from other US states.
 
-Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative. The weighted N is 1867, suggesting a raw margin of error of +/-2.9pts.
+Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative. The weighted N is 1867, suggesting a raw margin of error of +/-2pts at 95% confidence.
 
 
 ### Topline Results
