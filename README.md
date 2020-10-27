@@ -7,11 +7,11 @@ This poll was run via the [Prolific](https://www.prolific.co/) platform. After d
 
 ### Topline Results
 
-* US national turnout is estimated to be 62.7% of the voting eligible population (80% CI: 57.4% to 67.0%). (Note that CIs are modeled CIs that project actual election results, not just the CI implied by the poll.)
+* US national turnout is estimated to be 62.7% of the voting eligible population (80% CI: 57.4% to 67.0%). (Note that CIs are _naive modeled CIs_ that project actual election results using this poll alone and historical information about polling accuracy (but not other polls or other non-polling informaiton like fundamentals). This CI is not just the CIs implied by the raw polling margin of error.)
 * 80.4% of eligible US voters are estimated to be registered (80% CI: 75.5% to 85.3%).
-* Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7). These modeled CIs alone suggest a 85.6% chance Biden wins the Presidency.
+* Biden at +10.0 support nationally (80% CI: Biden +5.2 to Biden +14.7). These naive modeled CIs alone suggest a 85.6% chance Biden wins the Presidency (again, taking into account this poll alone and information about historical accuracy, not taking into account any other polls or any non-polling fundamentals).
 * Dems are at +5.4 nationally in the Generic Congressional Ballot (80% CI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
-* Biden is at +2.3 in Texas (80% CI: Trump +4.0 to Biden +8.7), suggesting a 62.1% chance (from this poll alone and no other information) that Biden wins Texas.
+* Biden is at +2.3 in Texas (80% CI: Trump +4.0 to Biden +8.7), suggesting a 62.1% chance that Biden wins Texas.
 * Biden is at +28.9 in California (80% CI: Biden +22.5 to Biden +35.3), suggesting a >99.9% chance that Biden wins California.
 * Cornyn (R) is at +2.5 in the Texas Senate race (80% CI: Cornyn +11.3 to Hegar (D) +6.3), suggesting a 59.5% chance that Cornyn keeps his Texas Senate seat.
 * CA Prop 14 (Stem Cell) is at 55.6% support (80% CI: 43.9 to 67.4), suggesting a 65.7% chance of passing.
