@@ -2,7 +2,7 @@
 
 Open data and code behind [Rethink Priorities](https://www.rethinkpriorities.org/)'s analysis of its 2020 Benchmarking Poll.
 
-This poll was run via the [Prolific](https://www.prolific.co/) platform on 20 October 2020. After dropping for data quality checks, it includes 4933 people. People from California were intentionally upsampled, so the raw data includes 1022 people from California and 3911 people from other US states.
+This poll was run on Rethink Priorities via the [Prolific](https://www.prolific.co/) platform on 20 October 2020. After dropping for data quality checks, it includes 4933 people. People from California were intentionally upsampled, so the raw data includes 1022 people from California and 3911 people from other US states.
 
 Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative. The weighted N is 1867, suggesting a raw margin of error of +/-2pts at 95% confidence.
 
@@ -11,8 +11,8 @@ Analyses are done on weighted data that corrects this upsampling and corrects ot
 
 * US national turnout is estimated to be 62.7% of the voting eligible population (80% NMCI: 57.4% to 67.0%). (Note that NMCIs are _naive modeled confidence intervals_ that project actual election results using this poll alone and historical information about polling accuracy, but not other polls or other non-polling informaiton like fundamentals. Thus NMCI are not just the CIs implied by the raw polling margin of error. This is meant to imply that there is an 80% chance that the true value as observed on election day will fall between the two 80% NMCI values.)
 * 80.4% of eligible US voters are estimated to be registered (80% NMCI: 75.5% to 85.3%).
-* Biden at +10.0 support nationally (80% NMCI: Biden +5.2 to Biden +14.7). These naive modeled NMCIs alone suggest a 85.6% chance Biden wins the Presidency (again, taking into account this poll alone and information about historical accuracy, not taking into account any other polls or any non-polling fundamentals).
-* Dems are at +5.4 nationally in the Generic Congressional Ballot (80% NMCI: Reps +2.5 to Dems +13.2), suggesting a 71.7% chance that Dems keep the House.
+* Biden at +9.8 support nationally (80% NMCI: Biden +5.3 to Biden +14.4). These naive modeled NMCIs alone suggest a 86.1% chance Biden wins the Presidency (again, taking into account this poll alone and information about historical accuracy, not taking into account any other polls or any non-polling fundamentals).
+* Dems are at +5.3 nationally in the Generic Congressional Ballot (80% NMCI: Reps +2.6 to Dems +13.1), suggesting a 71.7% chance that Dems keep the House.
 * Biden is at +2.3 in Texas (80% NMCI: Trump +4.0 to Biden +8.7), suggesting a 62.1% chance that Biden wins Texas.
 * Biden is at +28.9 in California (80% NMCI: Biden +22.5 to Biden +35.3), suggesting a >99.9% chance that Biden wins California.
 * Cornyn (R) is at +2.5 in the Texas Senate race (80% NMCI: Cornyn +11.3 to Hegar (D) +6.3), suggesting a 59.5% chance that Cornyn keeps his Texas Senate seat.
