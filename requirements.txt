@@ -1,5 +1,6 @@
 mlgear
 numpy
+notebook
 pandas
 scipy
 surveyweights
