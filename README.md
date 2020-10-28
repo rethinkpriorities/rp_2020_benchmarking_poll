@@ -27,7 +27,7 @@ Analyses are done on weighted data that corrects this upsampling and corrects ot
 * CA Prop 23 (Dialysis) is at 55.3% support (80% NMCI: 45.2 to 65.5), suggesting a 67.1% chance of passing.
 * CA Prop 25 (Bail) is at 59.1% support (80% NMCI: 50.7 to 67.6), suggesting a 81.9% chance of passing.
 
-See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for all results and predictions.
+The predictions above are the only ones I want to be held to, but see [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for more details on model outputs.
  
  
 ### Install Prerequisites
@@ -49,7 +49,7 @@ Note that running these two scripts on your own is unnecessary as the generated 
 
 ### Models
 
-See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for results and predictions.
+See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for details on individual model outputs.
 
 This data was produced with the following scripts:
 
