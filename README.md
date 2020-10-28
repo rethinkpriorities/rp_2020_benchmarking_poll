@@ -6,6 +6,8 @@ This poll was run by Rethink Priorities via the [Prolific](https://www.prolific.
 
 Analyses are done on weighted data that corrects this upsampling and corrects other ways that Prolific may not be representative. The weighted N is 1867, suggesting a raw margin of error of +/-2pts at 95% confidence.
 
+All analysis was done before the election, so will not be biased by actual results.
+
 
 ### Topline Results
 
@@ -27,7 +29,14 @@ Analyses are done on weighted data that corrects this upsampling and corrects ot
 * CA Prop 23 (Dialysis) is at 55.3% support (80% NMCI: 45.2 to 65.5), suggesting a 67.1% chance of passing.
 * CA Prop 25 (Bail) is at 59.1% support (80% NMCI: 50.7 to 67.6), suggesting a 81.9% chance of passing.
 
-The predictions above are the only ones I want to be held to, but see [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for more details on model outputs.
+The predictions above are the only ones I want to be held to, but see [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for more details on model outputs and other predictions. You can also investigate individual Jupyter noteboks (see "Models" below) for even more.
+
+
+### Writeups
+
+* [RP 2020 Election Poll: Biden at +9.8 support nationally in Rethink Priorities poll, Dems +5.3 for Congress](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf) - 28 October 2020
+
+* [RP 2020 Election Poll: California Propositions Poll](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f6d1fb5f4696ebe7ec5/1603899247289/California+Propositions+Poll.pdf) - 28 October 2020
  
  
 ### Install Prerequisites
@@ -57,4 +66,3 @@ This data was produced with the following scripts:
 * **[(4) Analysis - Generic Congressional Ballot](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(4)%20Analysis%20-%20Generic%20Congressional%20Ballot.ipynb)** - Model the Generic Congressional Ballot
 * **[(5) Analysis - Texas Biden + Senate](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Texas%20Biden%20%2B%20Senate.ipynb)** - Model Trump vs. Biden presidential race and Cornyn (R) vs. Hegar (D) senate race in Texas
 * **[(6) Analysis - CA Propositions](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Analysis%20-%20CA%20Propositions.ipynb)** - Model California state propositions. Also model Trump-Biden in CA.
-
