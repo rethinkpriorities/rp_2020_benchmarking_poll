@@ -17,13 +17,13 @@ Analyses are done on weighted data that corrects this upsampling and corrects ot
 * Biden is at +28.9 in California (80% NMCI: Biden +22.5 to Biden +35.3), suggesting a >99.9% chance that Biden wins California.
 * Cornyn (R) is at +2.5 in the Texas Senate race (80% NMCI: Cornyn +11.3 to Hegar (D) +6.3), suggesting a 59.5% chance that Cornyn keeps his Texas Senate seat.
 * CA Prop 14 (Stem Cell) is at 55.6% support (80% NMCI: 45.2 to 66.0), suggesting a 67.4% chance of passing.
-* CA Prop 15 (Property Tax) is at 56.5% support (80% NMCI: 45.4 to 67.6), suggesting a 68.8% chance of passing.
+* CA Prop 15 (Property Tax) is at 56.5% support (80% NMCI: 46.7 to 66.5), suggesting a 71.1% chance of passing.
 * CA Prop 16 (Affirmative Action) is at 39.9% support (80% NMCI: 30.4 to 49.4), suggesting a 18.7% chance of passing.
 * CA Prop 17 (Felon Voting) is at 61.2% support (80% NMCI: 53.7 to 68.7), suggesting a 89.5% chance of passing.
-* CA Prop 18 (17yo Voting) is at 47.5% support (80% NMCI: 38.4 to 56.5), suggesting a 42.1% chance of passing.
+* CA Prop 18 (17yo Voting) is at 47.5% support (80% NMCI: 40.1 to 54.6), suggesting a 37.9% chance of passing.
 * CA Prop 20 (Parole) is at 45.1% support (80% NMCI: 35.0 to 55.2), suggesting a 34.1% chance of passing.
 * CA Prop 21 (Rent Control) is at 46.8% support (80% NMCI: 34.5 to 59.2), suggesting a 41.5% chance of passing.
-* CA Prop 22 (Rideshare) is at 50.2% support (80% NMCI: 39.8 to 60.6), suggesting a 50.7% chance of passing.
+* CA Prop 22 (Rideshare) is at 50.2% support (80% NMCI: 41.1 to 59.3), suggesting a 50.8% chance of passing.
 * CA Prop 23 (Dialysis) is at 55.3% support (80% NMCI: 45.2 to 65.5), suggesting a 67.1% chance of passing.
 * CA Prop 25 (Bail) is at 59.1% support (80% NMCI: 50.7 to 67.6), suggesting a 81.9% chance of passing.
 
