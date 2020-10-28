@@ -32,7 +32,9 @@ All analysis was done before the election, so will not be biased by actual resul
 The predictions above are the only ones I want to be held to, but see [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for more details on model outputs and other predictions. You can also investigate individual Jupyter noteboks (see "Models" below) for even more.
 
 
-### Writeups
+### Writeups / Methodology
+
+Writeups contain details on some of the above results as well as full details on the methodology.
 
 * [RP 2020 Election Poll: Biden at +9.8 support nationally in Rethink Priorities poll, Dems +5.3 for Congress](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf) - 28 October 2020
 
