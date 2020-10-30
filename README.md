@@ -36,9 +36,9 @@ The predictions above are the only ones I want to be held to, but see [this shee
 
 Writeups contain details on some of the above results as well as full details on the methodology.
 
-* [RP 2020 Election Poll: Biden at +9.8 support nationally in Rethink Priorities poll, Dems +5.3 for Congress](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf) - 28 October 2020
+* [RP 2020 Election Poll: Biden at +9.8 support nationally in Rethink Priorities poll, Dems +5.3 for Congress](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f048ef3c11dadf5ddc1/1603899141511/Biden+at+%2B9.8+support+nationally+in+Rethink+Priorities+poll%2C+Dems+%2B5.3+for+Congress.pdf) - Analyis complete 28 October 2020
 
-* [RP 2020 Election Poll: California Propositions Poll](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f6d1fb5f4696ebe7ec5/1603899247289/California+Propositions+Poll.pdf) - 28 October 2020
+* [RP 2020 Election Poll: California Propositions Poll](https://static1.squarespace.com/static/5c64375df4e5314e7985012c/t/5f998f6d1fb5f4696ebe7ec5/1603899247289/California+Propositions+Poll.pdf) - Analyis complete 28 October 2020
  
  
 ### Install Prerequisites
