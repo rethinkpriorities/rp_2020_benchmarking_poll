@@ -52,8 +52,8 @@ Raw data is in `repsonses_processed_national_weighted.csv`.
 
 This data was produced with the following two scripts:
 
-* **[(1) Process Data.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(1)%20Process%20Data.ipynb)** - Load the data from Surveymonkey Raw CSV into processed CSVs. Use [survey_dud_detector](https://github.com/rethinkpriorities/survey_dud_detector) and other quality checks to remove bad data.
-* **[(2) Weighting.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(2)%20Weighting.ipynb)** - Use [surveyweights](https://github.com/rethinkpriorities/surveyweights) package to apply US Census weighting
+* **[(A) Process Data.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(A)%20Process%20Data.ipynb)** - Load the data from Surveymonkey Raw CSV into processed CSVs. Use [survey_dud_detector](https://github.com/rethinkpriorities/survey_dud_detector) and other quality checks to remove bad data.
+* **[(B) Weighting.ipynb](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(B)%20Weighting.ipynb)** - Use [surveyweights](https://github.com/rethinkpriorities/surveyweights) package to apply US Census weighting
 
 Note that running these two scripts on your own is unnecessary as the generated data is already included in the repo. Further note that running the first script is not possible publicly as the raw CSVs expose internal Prolific information that cannot be disclosed publicly.
 
@@ -62,8 +62,8 @@ Note that running these two scripts on your own is unnecessary as the generated 
 
 See [this sheet](https://docs.google.com/spreadsheets/d/1yuEruo1z4sQ9IIqVMGba1-fumtmypbjZk_2tOZgVhkk/edit#gid=0) for details on model outputs and other predictions. You can also investigate the following individual Jupyter noteboks for even more:
 
-* **[(3) Analysis - Trump-Biden](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(3)%20Analysis%20-%20Trump-Biden.ipynb)** - Model Trump vs. Biden. Also include estimates of turnout. (Analysis complete 28 Oct 2020.)
-* **[(4) Analysis - Generic Congressional Ballot](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(4)%20Analysis%20-%20Generic%20Congressional%20Ballot.ipynb)** - Model the Generic Congressional Ballot. (Analysis complete 28 Oct 2020.)
-* **[(5) Analysis - Texas Biden + Senate](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Texas%20Biden%20%2B%20Senate.ipynb)** - Model Trump vs. Biden presidential race and Cornyn (R) vs. Hegar (D) senate race in Texas. (Analysis complete 28 Oct 2020.)
-* **[(6) Analysis - CA Propositions](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(5)%20Analysis%20-%20CA%20Propositions.ipynb)** - Model California state propositions. Also model Trump-Biden in CA. (Analysis complete 28 Oct 2020.)
-* **[(7) Analysis - 50 States + DC Models](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(7)%2050%20States%20%2B%20DC%20Models.ipynb)** - Using national polling to infer state results for all 50 states + DC for Trump vs. Biden and Senate races. (Analyis complete 29 Oct 2020.)
+* **[(C) Analysis - Trump-Biden](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(C)%20Analysis%20-%20Trump-Biden.ipynb)** - Model Trump vs. Biden. Also include estimates of turnout. (Analysis complete 28 Oct 2020.)
+* **[(D) Analysis - Generic Congressional Ballot](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(D)%20Analysis%20-%20Generic%20Congressional%20Ballot.ipynb)** - Model the Generic Congressional Ballot. (Analysis complete 28 Oct 2020.)
+* **[(E) Analysis - Texas Biden + Senate](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(E)%20Texas%20Biden%20%2B%20Senate.ipynb)** - Model Trump vs. Biden presidential race and Cornyn (R) vs. Hegar (D) senate race in Texas. (Analysis complete 28 Oct 2020.)
+* **[(F) Analysis - CA Propositions](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(F)%20Analysis%20-%20CA%20Propositions.ipynb)** - Model California state propositions. Also model Trump-Biden in CA. (Analysis complete 28 Oct 2020.)
+* **[(G) Analysis - 50 States + DC Models](https://github.com/rethinkpriorities/rp_2020_benchmarking_poll/blob/master/(G)%2050%20States%20%2B%20DC%20Models.ipynb)** - Using national polling to infer state results for all 50 states + DC for Trump vs. Biden and Senate races. (Analyis complete 29 Oct 2020.)
